@@ -16,4 +16,8 @@ Look out for special flying zombies that give extra points!
 Once the game is over, it displayes how many zombies the player eliminated and what the current score was.
 ![image5](readMeImages/image5.jpeg)
 
-Have fun playing the Zombie Game!
+# How to Play
+
+1. Clone the repository
+2. Install the requirements (Pygame)
+3. Run main.py
