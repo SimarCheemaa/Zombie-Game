@@ -1,12 +1,12 @@
 # Zombie-Game
 Third-person shooting game using Pygame
 
-# How to Run the game
+## How to Run the game
 1. Clone the repository
 2. Install the requirements (Pygame)
 3. Run main.py
 
-# How to Play
+## How to Play
 Game starts with a loading screen and asks the user to tap anywhere to start the game.
 ![image1](readMeImages/image1.jpeg)
 
