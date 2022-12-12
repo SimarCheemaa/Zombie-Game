@@ -1,6 +1,12 @@
 # Zombie-Game
 Third-person shooting game using Pygame
 
+# How to Run the game
+1. Clone the repository
+2. Install the requirements (Pygame)
+3. Run main.py
+
+# How to Play
 Game starts with a loading screen and asks the user to tap anywhere to start the game.
 ![image1](readMeImages/image1.jpeg)
 
@@ -15,9 +21,3 @@ Look out for special flying zombies that give extra points!
 
 Once the game is over, it displayes how many zombies the player eliminated and what the current score was.
 ![image5](readMeImages/image5.jpeg)
-
-# How to Play
-
-1. Clone the repository
-2. Install the requirements (Pygame)
-3. Run main.py
