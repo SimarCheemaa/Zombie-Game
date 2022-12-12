@@ -2,18 +2,18 @@
 Third-person shooting game using Pygame
 
 Game starts with a loading screen and asks the user to tap anywhere to start the game.
-(image 1)
+![image1](readMeImages/image1.jpeg)
 
 The player starts with a Knife and 0 points. The user can move using WASD keys and eliminate zombies using the 'R' key to earn points.
-(image 2)
+![image2](readMeImages/image2.jpeg)
 
 Once the player accumulates enough points, they can purchase a pistol or a rocket launcher to eliminate zombies from a distance. The weapons have limited ammo, more ammo can be purchased with points using the 'B' key.
-(image 3)
+![image3](readMeImages/image3.jpeg)
 
 Look out for special flying zombies that give extra points!
-(image 4)
+![image4](readMeImages/image4.jpeg)
 
 Once the game is over, it displayes how many zombies the player eliminated and what the current score was.
-(image 5)
+![image5](readMeImages/image5.jpeg)
 
 Have fun playing the Zombie Game!
