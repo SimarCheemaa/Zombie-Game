@@ -17,7 +17,7 @@ pygame.init()
 CLOCK = pygame.time.Clock()
 width, height = 800, 550
 display = pygame.display
-display.set_caption('Bitmoji Game')
+display.set_caption('Zombie Game')
 clock = pygame.time.Clock()
 screen = display.set_mode((width, height))
 background = pygame.image.load("images/background.png").convert()
@@ -29,6 +29,8 @@ explosion = pygame.transform.scale(explosion, (80, 80))
 player = Player()
 
 # Helper Functions
+
+
 def start_game(screen, player, backgroundBlur):
     font = pygame.font.SysFont(pygame.font.get_fonts()[-1], 50)
     while True:
